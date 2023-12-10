@@ -1,0 +1,62 @@
+[
+    {
+        "employeeID": 1,
+        "name": "John Doe",
+        "salary": 5000,
+        "department": "sales"
+    },{
+        "employeeID": 2,
+        "name": "Jane Smith",
+        "salary": 60000,
+        "department": "Marketing"
+      },
+      {
+        "employeeID": 3,
+        "name": "Mike Johnson",
+        "salary": 70000,
+        "department": "HR"
+      },
+      {
+        "employeeID": 4,
+        "name": "Emily Brown",
+        "salary": 55000,
+        "department": "Finance"
+      },
+      {
+        "employeeID": 5,
+        "name": "David Wilson",
+        "salary": 65000,
+        "department": "IT"
+      },
+      {
+        "employeeID": 6,
+        "name": "Sarah Davis",
+        "salary": 75000,
+        "department": "Operations"
+      },
+      {
+        "employeeID": 7,
+        "name": "Michael Lee",
+        "salary": 58000,
+        "department": "Sales"
+      },
+      {
+        "employeeID": 8,
+        "name": "Jennifer White",
+        "salary": 67000,
+        "department": "Marketing"
+      },
+      {
+        "employeeID": 9,
+        "name": "Chris Harris",
+        "salary": 72000,
+        "department": "HR"
+      },
+      {
+        "employeeID": 10,
+        "name": "Samantha Clark",
+        "salary": 59000,
+        "department": "Finance"
+      }
+
+]
