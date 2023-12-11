@@ -4,7 +4,7 @@ I was able to complete three challenges of various dificulty.
 
 Below are the requirements.
 
-Feel free too explore, enjoy.
+Feel free to explore, enjoy.
 
 
 Requirements: 
